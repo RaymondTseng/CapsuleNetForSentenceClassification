@@ -1,0 +1,501 @@
+6
+How far is it from Denver to Aspen ?	2
+What county is Modesto , California in ?	0
+Who was Galileo ?	1
+What is an atom ?	5
+When did Hawaii become a state ?	2
+How tall is the Sears Building ?	2
+George Bush purchased a small interest in which baseball team ?	1
+What is Australia 's national flower ?	4
+Why does the moon turn orange ?	5
+What is autism ?	5
+What city had a world fair in 1900 ?	0
+What person 's head is on a dime ?	1
+What is the average weight of a Yellow Labrador ?	2
+Who was the first man to fly across the Pacific Ocean ?	1
+When did Idaho become a state ?	2
+What is the life expectancy for crickets ?	2
+What metal has the highest melting point ?	4
+Who developed the vaccination against polio ?	1
+What is epilepsy ?	5
+What year did the Titanic sink ?	2
+Who was the first American to walk in space ?	1
+What is a biosphere ?	5
+What river in the US is known as the Big Muddy ?	0
+What is bipolar disorder ?	5
+What is cholesterol ?	5
+Who developed the Macintosh computer ?	1
+What is caffeine ?	5
+What imaginary line is halfway between the North and South Poles ?	0
+Where is John Wayne airport ?	0
+What hemisphere is the Philippines in ?	0
+What is the average speed of the horses at the Kentucky Derby ?	2
+Where are the Rocky Mountains ?	0
+What are invertebrates ?	5
+What is the temperature at the center of the earth ?	2
+When did John F. Kennedy get elected as President ?	2
+How old was Elvis Presley when he died ?	2
+Where is the Orinoco River ?	0
+How far is the service line from the net in tennis ?	2
+How much fiber should you have per day ?	2
+How many Great Lakes are there ?	2
+Material called linen is made from what plant ?	4
+What is Teflon ?	5
+What is amitriptyline ?	5
+What is a shaman ?	5
+What is the proper name for a female walrus ?	4
+What is a group of turkeys called ?	4
+How long did Rip Van Winkle sleep ?	2
+What are triglycerides ?	5
+How many liters in a gallon ?	2
+What is the name of the chocolate company in San Francisco ?	1
+What are amphibians ?	5
+Who discovered x-rays ?	1
+Which comedian 's signature line is `` Can we talk '' ?	1
+What is fibromyalgia ?	5
+What is done with worn or outdated flags ?	5
+What does cc in engines mean ?	5
+When did Elvis Presley die ?	2
+What is the capital of Yugoslavia ?	0
+Where is Milan ?	0
+What is the speed hummingbirds fly ?	2
+What is the oldest city in the United States ?	0
+What was W.C. Fields ' real name ?	1
+What river flows between Fargo , North Dakota and Moorhead , Minnesota ?	0
+What do bats eat ?	4
+What state did the Battle of Bighorn take place in ?	0
+Who was Abraham Lincoln ?	1
+What do you call a newborn kangaroo ?	4
+What are spider veins ?	5
+What day and month did John Lennon die ?	2
+What strait separates North America from Asia ?	0
+What is the population of Seattle ?	2
+How much was a ticket for the Titanic ?	2
+What is the largest city in the world ?	0
+What American composer wrote the music for `` West Side Story '' ?	1
+Where is the Mall of the America ?	0
+What is the pH scale ?	5
+What type of currency is used in Australia ?	4
+How tall is the Gateway Arch in St. Louis , MO ?	2
+How much does the human adult female brain weigh ?	2
+Who was the first governor of Alaska ?	1
+What is a prism ?	5
+When was the first liver transplant ?	2
+Who was elected president of South Africa in 1994 ?	1
+What is the population of China ?	2
+When was Rosa Parks born ?	2
+Why is a ladybug helpful ?	5
+What is amoxicillin ?	5
+Who was the first female United States Representative ?	1
+What are xerophytes ?	5
+What country did Ponce de Leon come from ?	0
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?	4
+What is desktop publishing ?	5
+What is the temperature of the sun 's surface ?	2
+What year did Canada join the United Nations ?	2
+What is the oldest university in the US ?	1
+Where is Prince Edward Island ?	0
+Mercury , what year was it discovered ?	2
+What is cryogenics ?	5
+What are coral reefs ?	5
+What is the longest major league baseball-winning streak ?	4
+What is neurology ?	5
+Who invented the calculator ?	1
+How do you measure earthquakes ?	5
+Who is Duke Ellington ?	1
+What county is Phoenix , AZ in ?	0
+What is a micron ?	5
+The sun 's core , what is the temperature ?	2
+What is the Ohio state bird ?	4
+When were William Shakespeare 's twins born ?	2
+What is the highest dam in the U.S. ?	0
+What color is a poison arrow frog ?	4
+What is acupuncture ?	5
+What is the length of the coastline of the state of Alaska ?	2
+What is the name of Neil Armstrong 's wife ?	1
+What is Hawaii 's state flower ?	4
+Who won Ms. American in 1989 ?	1
+When did the Hindenberg crash ?	2
+What mineral helps prevent osteoporosis ?	4
+What was the last year that the Chicago Cubs won the World Series ?	2
+Where is Perth ?	0
+What year did WWII begin ?	2
+What is the diameter of a golf ball ?	2
+What is an eclipse ?	5
+Who discovered America ?	1
+What is the earth 's diameter ?	2
+Which president was unmarried ?	1
+How wide is the Milky Way galaxy ?	2
+During which season do most thunderstorms occur ?	2
+What is Wimbledon ?	5
+What is the gestation period for a cat ?	2
+How far is a nautical mile ?	2
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?	1
+What does target heart rate mean ?	5
+What was the first satellite to go into space ?	4
+What is foreclosure ?	5
+What is the major fault line near Kentucky ?	4
+Where is the Holland Tunnel ?	0
+Who wrote the hymn `` Amazing Grace '' ?	1
+What position did Willie Davis play in baseball ?	1
+What are platelets ?	5
+What is severance pay ?	5
+What is the name of Roy Roger 's dog ?	4
+Where are the National Archives ?	0
+What is a baby turkey called ?	4
+What is poliomyelitis ?	5
+What is the longest bone in the human body ?	4
+Who is a German philosopher ?	1
+What were Christopher Columbus ' three ships ?	4
+What does Phi Beta Kappa mean ?	5
+What is nicotine ?	5
+What is another name for vitamin B1 ?	4
+Who discovered radium ?	1
+What are sunspots ?	5
+When was Algeria colonized ?	2
+What baseball team was the first to make numbers part of their uniform ?	1
+What continent is Egypt on ?	0
+What is the capital of Mongolia ?	0
+What is nanotechnology ?	5
+In the late 1700 's British convicts were used to populate which colony ?	0
+What state is the geographic center of the lower 48 states ?	0
+What is an obtuse angle ?	5
+What are polymers ?	5
+When is hurricane season in the Caribbean ?	2
+Where is the volcano Mauna Loa ?	0
+What is another astronomic term for the Northern Lights ?	4
+What peninsula is Spain part of ?	0
+When was Lyndon B. Johnson born ?	2
+What is acetaminophen ?	5
+What state has the least amount of rain per year ?	0
+Who founded American Red Cross ?	1
+What year did the Milwaukee Braves become the Atlanta Braves ?	2
+How fast is alcohol absorbed ?	2
+When is the summer solstice ?	2
+What is supernova ?	5
+Where is the Shawnee National Forest ?	0
+What U.S. state 's motto is `` Live free or Die '' ?	0
+Where is the Lourve ?	0
+When was the first stamp issued ?	2
+What primary colors do you mix to make orange ?	4
+How far is Pluto from the sun ?	2
+What body of water are the Canary Islands in ?	0
+What is neuropathy ?	5
+Where is the Euphrates River ?	0
+What is cryptography ?	5
+What is natural gas composed of ?	4
+Who is the Prime Minister of Canada ?	1
+What French ruler was defeated at the battle of Waterloo ?	1
+What is leukemia ?	5
+Where did Howard Hughes die ?	0
+What is the birthstone for June ?	4
+What is the sales tax in Minnesota ?	4
+What is the distance in miles from the earth to the sun ?	2
+What is the average life span for a chicken ?	2
+When was the first Wal-Mart store opened ?	2
+What is relative humidity ?	5
+What city has the zip code of 35824 ?	0
+What currency is used in Algeria ?	4
+Who invented the hula hoop ?	1
+What was the most popular toy in 1957 ?	4
+What is pastrami made of ?	4
+What is the name of the satellite that the Soviet Union sent into space in 1957 ?	4
+What city 's newspaper is called `` The Enquirer '' ?	0
+Who invented the slinky ?	1
+What are the animals that don 't have backbones called ?	4
+What is the melting point of copper ?	2
+Where is the volcano Olympus Mons located ?	0
+Who was the 23rd president of the United States ?	1
+What is the average body temperature ?	2
+What does a defibrillator do ?	5
+What is the effect of acid rain ?	5
+What year did the United States abolish the draft ?	2
+How fast is the speed of light ?	2
+What province is Montreal in ?	0
+What New York City structure is also known as the Twin Towers ?	0
+What is fungus ?	5
+What is the most frequently spoken language in the Netherlands ?	4
+What is sodium chloride ?	5
+What are the spots on dominoes called ?	4
+How many pounds in a ton ?	2
+What is influenza ?	5
+What is ozone depletion ?	5
+What year was the Mona Lisa painted ?	2
+What does `` Sitting Shiva '' mean ?	5
+What is the electrical output in Madrid , Spain ?	4
+Which mountain range in North America stretches from Maine to Georgia ?	0
+What is plastic made of ?	4
+What is the population of Nigeria ?	2
+What does your spleen do ?	5
+Where is the Grand Canyon ?	0
+Who invented the telephone ?	1
+What year did the U.S. buy Alaska ?	2
+What is the name of the leader of Ireland ?	1
+What is phenylalanine ?	5
+How many gallons of water are there in a cubic foot ?	2
+What are the two houses of the Legislative branch ?	4
+What is sonar ?	5
+In Poland , where do most people live ?	0
+What is phosphorus ?	5
+What is the location of the Sea of Tranquility ?	0
+How fast is sound ?	2
+What French province is cognac produced in ?	0
+What is Valentine 's Day ?	5
+What causes gray hair ?	5
+What is hypertension ?	5
+What is bandwidth ?	5
+What is the longest suspension bridge in the U.S. ?	0
+What is a parasite ?	5
+What is home equity ?	5
+What do meteorologists do ?	5
+What is the criterion for being legally blind ?	4
+Who is the tallest man in the world ?	1
+What are the twin cities ?	0
+What did Edward Binney and Howard Smith invent in 1903 ?	4
+What is the statue of liberty made of ?	4
+What is pilates ?	5
+What planet is known as the `` red '' planet ?	0
+What is the depth of the Nile river ?	2
+What is the colorful Korean traditional dress called ?	4
+What is Mardi Gras ?	5
+Mexican pesos are worth what in U.S. dollars ?	2
+Who was the first African American to play for the Brooklyn Dodgers ?	1
+Who was the first Prime Minister of Canada ?	1
+How many Admirals are there in the U.S. Navy ?	2
+What instrument did Glenn Miller play ?	4
+How old was Joan of Arc when she died ?	2
+What does the word fortnight mean ?	5
+What is dianetics ?	5
+What is the capital of Ethiopia ?	0
+For how long is an elephant pregnant ?	2
+How did Janice Joplin die ?	5
+What is the primary language in Iceland ?	4
+What is the difference between AM radio stations and FM radio stations ?	5
+What is osteoporosis ?	5
+Who was the first woman governor in the U.S. ?	1
+What is peyote ?	5
+What is the esophagus used for ?	5
+What is viscosity ?	5
+What year did Oklahoma become a state ?	2
+What is the abbreviation for Texas ?	3
+What is a mirror made out of ?	4
+Where on the body is a mortarboard worn ?	0
+What was J.F.K. 's wife 's name ?	1
+What does I.V. stand for ?	3
+What is the chunnel ?	5
+Where is Hitler buried ?	0
+What are antacids ?	5
+What is pulmonary fibrosis ?	5
+What are Quaaludes ?	5
+What is naproxen ?	5
+What is strep throat ?	5
+What is the largest city in the U.S. ?	0
+What is foot and mouth disease ?	4
+What is the life expectancy of a dollar bill ?	2
+What do you call a professional map drawer ?	4
+What are Aborigines ?	5
+What is hybridization ?	5
+What color is indigo ?	4
+How old do you have to be in order to rent a car in Italy ?	2
+What does a barometer measure ?	4
+What color is a giraffe 's tongue ?	4
+What does USPS stand for ?	3
+What year did the NFL go on strike ?	2
+What is solar wind ?	5
+What date did Neil Armstrong land on the moon ?	2
+When was Hiroshima bombed ?	2
+Where is the Savannah River ?	0
+Who was the first woman killed in the Vietnam War ?	1
+What planet has the strongest magnetic field of all the planets ?	0
+Who is the governor of Alaska ?	1
+What year did Mussolini seize power in Italy ?	2
+What is the capital of Persia ?	0
+Where is the Eiffel Tower ?	0
+How many hearts does an octopus have ?	2
+What is pneumonia ?	5
+What is the deepest lake in the US ?	0
+What is a fuel cell ?	5
+Who was the first U.S. president to appear on TV ?	1
+Where is the Little League Museum ?	0
+What are the two types of twins ?	4
+What is the brightest star ?	0
+What is diabetes ?	5
+When was President Kennedy shot ?	2
+What is TMJ ?	3
+What color is yak milk ?	4
+What date was Dwight D. Eisenhower born ?	2
+What does the technical term ISDN mean ?	3
+Why is the sun yellow ?	5
+What is the conversion rate between dollars and pounds ?	2
+When was Abraham Lincoln born ?	2
+What is the Milky Way ?	5
+What is mold ?	5
+What year was Mozart born ?	2
+What is a group of frogs called ?	4
+What is the name of William Penn 's ship ?	4
+What is the melting point of gold ?	2
+What is the street address of the White House ?	0
+What is semolina ?	5
+What fruit is Melba sauce made from ?	4
+What is Ursa Major ?	5
+What is the percentage of water content in the human body ?	2
+How much does water weigh ?	2
+What was President Lyndon Johnson 's reform program called ?	4
+What is the murder rate in Windsor , Ontario ?	2
+Who is the only president to serve 2 non-consecutive terms ?	1
+What is the population of Australia ?	2
+Who painted the ceiling of the Sistine Chapel ?	1
+Name a stimulant .	4
+What is the effect of volcanoes on the climate ?	5
+What year did the Andy Griffith show begin ?	2
+What is acid rain ?	5
+What is the date of Mexico 's independence ?	2
+What is the location of Lake Champlain ?	0
+What is the Illinois state flower ?	4
+What is Maryland 's state bird ?	4
+What is quicksilver ?	5
+Who wrote `` The Divine Comedy '' ?	1
+What is the speed of light ?	2
+What is the width of a football field ?	2
+Why in tennis are zero points called love ?	5
+What kind of dog was Toto in the Wizard of Oz ?	4
+What is a thyroid ?	5
+What does ciao mean ?	5
+What is the only artery that carries blue blood from the heart to the lungs ?	4
+How often does Old Faithful erupt at Yellowstone National Park ?	2
+What is acetic acid ?	5
+What is the elevation of St. Louis , MO ?	2
+What color does litmus paper turn when it comes into contact with a strong acid ?	4
+What are the colors of the German flag ?	4
+What is the Moulin Rouge ?	5
+What soviet seaport is on the Black Sea ?	0
+What is the atomic weight of silver ?	2
+What currency do they use in Brazil ?	4
+What are pathogens ?	5
+What is mad cow disease ?	5
+Name a food high in zinc .	4
+When did North Carolina enter the union ?	2
+Where do apple snails live ?	0
+What are ethics ?	5
+What does CPR stand for ?	3
+What is an annuity ?	5
+Who killed John F. Kennedy ?	1
+Who was the first vice president of the U.S. ?	1
+What birthstone is turquoise ?	4
+Who was the first US President to ride in an automobile to his inauguration ?	1
+How old was the youngest president of the United States ?	2
+When was Ulysses S. Grant born ?	2
+What is Muscular Dystrophy ?	5
+Who lived in the Neuschwanstein castle ?	1
+What is propylene glycol ?	5
+What is a panic disorder ?	5
+Who invented the instant Polaroid camera ?	1
+What is a carcinogen ?	5
+What is a baby lion called ?	4
+What is the world 's population ?	2
+What is nepotism ?	5
+What is die-casting ?	5
+What is myopia ?	5
+What is the sales tax rate in New York ?	2
+Developing nations comprise what percentage of the world 's population ?	2
+What is the fourth highest mountain in the world ?	0
+What is Shakespeare 's nickname ?	1
+What is the heaviest naturally occurring element ?	4
+When is Father 's Day ?	2
+What does the acronym NASA stand for ?	3
+How long is the Columbia River in miles ?	2
+What city 's newspaper is called `` The Star '' ?	0
+What is carbon dioxide ?	5
+Where is the Mason/Dixon line ?	0
+When was the Boston tea party ?	2
+What is metabolism ?	5
+Which U.S.A. president appeared on `` Laugh-In '' ?	1
+What are cigarettes made of ?	4
+What is the capital of Zimbabwe ?	0
+What does NASA stand for ?	3
+What is the state flower of Michigan ?	4
+What are semiconductors ?	5
+What is nuclear power ?	5
+What is a tsunami ?	5
+Who is the congressman from state of Texas on the armed forces committee ?	1
+Who was president in 1913 ?	1
+When was the first kidney transplant ?	2
+What are Canada 's two territories ?	0
+What was the name of the plane Lindbergh flew solo across the Atlantic ?	4
+What is genocide ?	5
+What continent is Argentina on ?	0
+What monastery was raided by Vikings in the late eighth century ?	4
+What is an earthquake ?	5
+Where is the tallest roller coaster located ?	0
+What are enzymes ?	5
+Who discovered oxygen ?	1
+What is bangers and mash ?	5
+What is the name given to the Tiger at Louisiana State University ?	4
+Where are the British crown jewels kept ?	0
+Who was the first person to reach the North Pole ?	1
+What is an ulcer ?	5
+What is vertigo ?	5
+What is the spirometer test ?	5
+When is the official first day of summer ?	2
+What does the abbreviation SOS mean ?	3
+What is the smallest bird in Britain ?	4
+Who invented Trivial Pursuit ?	1
+What gasses are in the troposphere ?	4
+Which country has the most water pollution ?	0
+What is the scientific name for elephant ?	4
+Who is the actress known for her role in the movie `` Gypsy '' ?	1
+What breed of hunting dog did the Beverly Hillbillies own ?	4
+What is the rainiest place on Earth ?	0
+Who was the first African American to win the Nobel Prize in literature ?	1
+When is St. Patrick 's Day ?	2
+What was FDR 's dog 's name ?	4
+What colors need to be mixed to get the color pink ?	4
+What is the most popular sport in Japan ?	4
+What is the active ingredient in baking soda ?	4
+When was Thomas Jefferson born ?	2
+How cold should a refrigerator be ?	2
+When was the telephone invented ?	2
+What is the most common eye color ?	4
+Where was the first golf course in the United States ?	0
+What is schizophrenia ?	5
+What is angiotensin ?	5
+What did Jesse Jackson organize ?	1
+What is New York 's state bird ?	4
+What is the National Park in Utah ?	0
+What is Susan B. Anthony 's birthday ?	2
+In which state would you find the Catskill Mountains ?	0
+What do you call a word that is spelled the same backwards and forwards ?	4
+What are pediatricians ?	5
+What chain store is headquartered in Bentonville , Arkansas ?	1
+What are solar cells ?	5
+What is compounded interest ?	5
+What are capers ?	5
+What is an antigen ?	5
+What currency does Luxembourg use ?	4
+What is the population of Venezuela ?	2
+What type of polymer is used for bulletproof vests ?	4
+What currency does Argentina use ?	4
+What is a thermometer ?	5
+What Canadian city has the largest population ?	0
+What color are crickets ?	4
+Which country gave New York the Statue of Liberty ?	0
+What was the name of the first U.S. satellite sent into space ?	4
+What precious stone is a form of pure carbon ?	4
+What kind of gas is in a fluorescent bulb ?	4
+What is rheumatoid arthritis ?	5
+What river runs through Rowe , Italy ?	0
+What is cerebral palsy ?	5
+What city is also known as `` The Gateway to the West '' ?	0
+How far away is the moon ?	2
+What is the source of natural gas ?	4
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?	4
+What is pectin ?	5
+What is bio-diversity ?	5
+What 's the easiest way to remove wallpaper ?	4
+What year did the Titanic start on its journey ?	2
+How much of an apple is water ?	2
+Who was the 22nd President of the US ?	1
+What is the money they use in Zambia ?	4
+How many feet in a mile ?	2
+What is the birthstone of October ?	4
+What is e-coli ?	5
