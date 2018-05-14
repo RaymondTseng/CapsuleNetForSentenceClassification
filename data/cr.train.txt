@@ -256,7 +256,6 @@ it has lots of features such as the calendar which works like my outlook calenda
 there is not a word about satellite issues in either the user guide or the " knowledge " database at linksys . com , and first tech support person i spoke with kept me on the phone for an hour , then gave me a web site address to consult -- that turned out to be the one i 'd already found during a search of my own .	0
 camera quality isn't bad for the low resolution .	1
 this isn't the most rugged phone ever but then your not gonna play airplane with this , are you .	1
-	0
 you can use it as a storage hard drive .	1
 usb 2 . 0 - very fast	1
 and with usb 2 . 0 , transferring music to your player is incredibly easy .	1
@@ -1236,7 +1235,6 @@ dependability : i 've seen no glitches .	1
 only then did i learn the truth -- this phone does not work with palm pdas ! .	0
 sound quality : the ipod 's sound quality is pretty good .	1
 we found that when you put a dirty diaper into the top loader , there was a tendency to get streaks which would then get on the plunger which would then have to get cleaned each time it was used .	0
-	0
 it comes with a rechargable battery that does not seem to last all that long , especially if you use the flash a lot .	0
 i purchased this phone knowing it was slightly old as compared to the newer models of nokia phones available .	0
 still , that 's enough time that i'm still satisfied , if a bit grouchy with creative 's over hyped promises .	0
@@ -2575,7 +2573,6 @@ another thing you should know , the metal on the flip side of the ipod is very t
 the headphones have great sound and durability and mine came with some extras when i bought it ( a stand , a belt hook , charger ) that i know doesn't come with every one .	1
 it ain't cutting edge ( no pun intended ) state of the art with all the latest bells & whistles & it definitely ain't pretty .	0
 it looks sleek and modern .	1
-	1
 1 . it uses regular garbage bags instead of brand refills .	1
 so , right out of the box i had issue .	0
 i'm an advocate of nokia , but this phone and the following models ( 7610 ) , are seemingly a desperate trial at squeezing as much under-engineered and experimental technologies in one sloppy phone .	0
@@ -2723,7 +2720,7 @@ the fact that has an open-source firmware makes it a great option in my opinion 
 download it fast to your computer	1
 being a very economical person , i appreciate the fact that any plastic bag can be used with this system- i never did like the prospect of buying special diaper genie refills .	1
 ability to play most discs - i tried dvd , vcd , dvd-r , audio cd and it played all	1
-i didnt have any installation problems ; . and the touch pad is fine , even if it is sort of inaccurate .	1
+i didn't have any installation problems ; . and the touch pad is fine , even if it is sort of inaccurate .	1
 you do get 1 more gb than an ipod mini .	1
 not only is it functional and runs super smooth & fast , but it is also eye candy .	1
 other tagging problems result ( i think ) from the nomad 's operating system .	0

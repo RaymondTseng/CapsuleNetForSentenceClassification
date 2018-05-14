@@ -6,8 +6,8 @@ import utils
 epsilon = 1e-9
 iter_routing = 3
 mask_with_y = True
-lambda_val = 0.5
-regularization_scale = 0.15
+
+
 
 # CapsuleNet for sentence classification
 class CapsuleNet:
@@ -110,12 +110,7 @@ class CapsuleNet:
         self.reconstruction_err = tf.reduce_mean(squared)
 
         # 3. Total loss
-        # The paper uses sum of squared error as reconstruction error, but we
-        # have used reduce_mean in `# 2 The reconstruction loss` to calculate
-        # mean squared error. In order to keep in line with the paper,the
-        # regularization scale should be 0.0005*300=0.15
-        self.total_loss = self.origin_loss + regularization_scale * self.reconstruction_err
-        # self.total_loss = self.origin_loss
+        self.total_loss = self.origin_loss + self.FLAGS.regularization_scale * self.reconstruction_err
 
         self.optimizer = tf.train.AdamOptimizer(self.FLAGS.learning_rate).minimize(self.total_loss)
 

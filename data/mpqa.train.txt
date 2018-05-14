@@ -1852,7 +1852,6 @@ criticised	0
 promises	1
 did not sound the alarm in time	0
 have condemned	0
-	0
 publicity stunt	0
 allegedly threatening	0
 took exception	0
@@ -4803,7 +4802,6 @@ does not reflect	0
 fully respected	1
 even impossible	0
 not look very good	0
-2
 could be hobbled	0
 imbibed them amidst the safety and leisure	0
 are committed	1
